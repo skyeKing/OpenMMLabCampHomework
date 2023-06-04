@@ -1,2 +1,2 @@
 # MMPose 作业
-![image](rtmdet tiny ear.png)
+![image](ear_1.jpg)
