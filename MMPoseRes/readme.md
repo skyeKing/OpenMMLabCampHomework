@@ -1,2 +1,2 @@
 # MMPose 作业
-![image](ear_1.jpg){:height="50%" width="50%"}
+![image](ear_1.jpg){:height="10%" width="10%"}
